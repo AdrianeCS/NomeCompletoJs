@@ -1,2 +1,2 @@
 # NomeCompletoJs
-07/11/22
+Reimplementação em JavaScript do exercício NomeCompleto
